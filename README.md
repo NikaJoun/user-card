@@ -22,13 +22,13 @@
 ### 1. Клонируйте репозиторий
 
 ```bash
-git clone https://github.com/ваш-username/usercard.git
+git clone https://github.com/ваш-username/user-card.git
 ```
 
 ### 2. Перейдите в директорию проекта
 
 ```bash
-cd usercard
+cd user-card
 ```
 
 ### 3. Установите зависимости
